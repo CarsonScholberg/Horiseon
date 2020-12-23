@@ -1,5 +1,5 @@
 # horiseon
-Description: pdated the code for accessabiliy and readability
+Description: updated the code for accessabiliy and readability
 
 https://carsonscholberg.github.io/horiseon/
 
